@@ -134,3 +134,4 @@ index-тэй дүрэм wildcard байсан ч (дүрэм 6) анхааруу
 -  TechCrunch, *Microsoft says 8.5M Windows devices were affected by CrowdStrike outage*, 2024-07-20
    (Microsoft-ийн David Weston-ын blog-ийг иш татсан).
    https://techcrunch.com/2024/07/20/microsoft-says-8.5m-windows-devices-were-affected-by-crowdstrike-outage/
+
