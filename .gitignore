@@ -1,0 +1,5 @@
+# Compile хийсэн binary — repo-д оруулахгүй (make хийхэд дахин үүснэ)
+demo_buggy
+demo_fixed
+*.o
+asan_log.*
